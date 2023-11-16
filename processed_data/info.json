@@ -1,0 +1,10 @@
+{
+    "files_parsed": 5,
+    "playlists": 5000,
+    "songs": 108870,
+    "train_edges": 477734,
+    "val_edges": 95620,
+    "test_edges": 95620,
+    "pos_edges": 334487,
+    "neg_edges": 334487
+}
