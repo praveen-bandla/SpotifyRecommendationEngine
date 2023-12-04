@@ -93,7 +93,7 @@ To train, the `Adam` optimizer was used alongside a weighted `Binary Cross Entro
 
 ### Storage and Evaluation
 
-At the end of training, the outputs were all stored as `training_data.csv`, while the model was stored as `model_weights.pth`. The AUC and loss values were plotted over epochs as a `plotly` visual saved as `training_visual.html`. The training procedure was conducted twice, on the sampled dataset represented in this repository along with the full version of the *150,000 playlists*. The model folder contains two distinct subfolders for each training, and the respective files can be found in both.
+At the end of training, the outputs were all stored as `training_data.csv`, while the model weights were stored as `model_weights.pth`. The AUC and loss values were plotted over epochs as a `plotly` visual saved as `training_visual.html`. The training procedure was conducted twice, on the sampled dataset represented in this repository along with the full version of the *150,000 playlists*. The model folder contains two distinct subfolders for each training, and the respective files can be found in both.
 
 <br>
 
